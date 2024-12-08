@@ -1,2 +1,3 @@
+*.java linguist-language=java
 *.sql linguist-detectable=true
 *.sql linguist-language=sql
